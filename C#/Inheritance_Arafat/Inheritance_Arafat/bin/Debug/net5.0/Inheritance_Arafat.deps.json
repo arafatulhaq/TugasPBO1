@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Inheritance_Arafat/1.0.0": {
+        "runtime": {
+          "Inheritance_Arafat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inheritance_Arafat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

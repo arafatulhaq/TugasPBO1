@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.exe
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.deps.json
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.runtimeconfig.json
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.runtimeconfig.dev.json
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.dll
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\ref\Overriding_Arafat.dll
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\bin\Debug\net5.0\Overriding_Arafat.pdb
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.AssemblyInfo.cs
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.dll
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\ref\Overriding_Arafat.dll
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.pdb
+C:\Users\user\source\repos\Overriding_Arafat\Overriding_Arafat\obj\Debug\net5.0\Overriding_Arafat.genruntimeconfig.cache

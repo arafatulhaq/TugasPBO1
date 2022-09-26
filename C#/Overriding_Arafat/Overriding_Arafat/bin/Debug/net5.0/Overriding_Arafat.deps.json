@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Overriding_Arafat/1.0.0": {
+        "runtime": {
+          "Overriding_Arafat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overriding_Arafat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

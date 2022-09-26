@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.exe
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.deps.json
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.runtimeconfig.json
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.runtimeconfig.dev.json
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.dll
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\ref\Polymorphisme_Arafat.dll
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\bin\Debug\net5.0\Polymorphisme_Arafat.pdb
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.AssemblyInfo.cs
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.dll
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\ref\Polymorphisme_Arafat.dll
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.pdb
+C:\Users\user\source\repos\Polymorphisme_Arafat\Polymorphisme_Arafat\obj\Debug\net5.0\Polymorphisme_Arafat.genruntimeconfig.cache

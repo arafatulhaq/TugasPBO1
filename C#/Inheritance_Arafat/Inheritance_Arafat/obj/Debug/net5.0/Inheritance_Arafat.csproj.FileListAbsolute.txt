@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.exe
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.deps.json
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.runtimeconfig.json
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.runtimeconfig.dev.json
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.dll
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\ref\Inheritance_Arafat.dll
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\bin\Debug\net5.0\Inheritance_Arafat.pdb
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.AssemblyInfo.cs
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.dll
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\ref\Inheritance_Arafat.dll
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.pdb
+C:\Users\user\source\repos\Inheritance_Arafat\Inheritance_Arafat\obj\Debug\net5.0\Inheritance_Arafat.genruntimeconfig.cache
